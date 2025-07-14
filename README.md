@@ -46,12 +46,13 @@ Edit
 
 ## Output Screenshots
 
-### Web Page
-![Web Output](Screenshots/Web_Page_Success_Output.png)
+## 📷 Screenshots
 
-### GitHub Action Success
-![Workflow](Screenshots/Workflow_Success.png)
+### ✅ Deployed Web Page
+![Web Output](Screenshots/Webpage_from_EC2.png)
 
+### 🟢 GitHub Actions Success
+![CI/CD Pipeline](Screenshots/GitHub_Actions_Success.png)
 ---
 
 ## By
