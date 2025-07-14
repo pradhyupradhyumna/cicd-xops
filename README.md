@@ -47,10 +47,10 @@ Edit
 ## Output Screenshots
 
 ### Web Page
-![Web Output](Screenshot/Web_Page_Success_Output.png)
+![Web Output](Screenshots/Web_Page_Success_Output.png)
 
 ### GitHub Action Success
-![Workflow](Screenshot/Workflow_Success.png)
+![Workflow](Screenshots/Workflow_Success.png)
 
 ---
 
